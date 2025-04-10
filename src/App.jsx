@@ -16,7 +16,7 @@ function App() {
 
       <p className="topic-description"> The aim of this area of MDN is not to take you from "beginner" to "expert" 
         but to take you from "beginner" to "comfortable." From there, you should be 
-        able to start making your way, learning from <a>the rest of MDN</a>, and other intermediate 
+        able to start making your way, learning from <a href="#">the rest of MDN</a>, and other intermediate 
         to advanced resources that assume a lot of previous knowledge.
 
       </p>
